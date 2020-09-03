@@ -1,0 +1,3 @@
+/Users/zhanggaofan/Documents/workspace/my_own/GLFWDemo/build/CMakeFiles/main.dir
+/Users/zhanggaofan/Documents/workspace/my_own/GLFWDemo/build/CMakeFiles/ALL_BUILD.dir
+/Users/zhanggaofan/Documents/workspace/my_own/GLFWDemo/build/CMakeFiles/ZERO_CHECK.dir
